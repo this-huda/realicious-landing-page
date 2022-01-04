@@ -1,0 +1,33 @@
+nav.navbar{
+    background-color:rgba(255, 255, 255, 0.7);
+}
+section#about,
+section#products,
+section#contact{
+    background-color:rgb(228, 244, 252);
+}
+section#about > h3,
+section#products > h3,
+section#contact > h3,
+.footer
+{
+    color:rgb(82, 82, 82);
+    background-color:rgb(154, 218, 250);
+}
+
+.card .card-header{
+    background-color: rgb(186, 225, 245);
+}
+
+.fa{
+    opacity: 0.5;
+}
+
+.fa:hover{
+   
+    opacity: 1;
+}
+
+h4.heading, h5.heading{
+    color:rgb(15, 118, 170);
+}
